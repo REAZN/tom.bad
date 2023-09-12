@@ -1,0 +1,12 @@
+{
+	"scripts": {
+		"start": "node index.js"
+	},
+	"dependencies": {
+		"jimp": "^0.22.10",
+		"nearest-color": "^0.4.4",
+		"node-fetch": "^3.3.2",
+		"throttled-queue": "^2.1.4"
+	},
+	"type": "module"
+}
